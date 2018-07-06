@@ -1,0 +1,19 @@
+{
+  "name": "is-sorted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuezm/is-sorted.git"
+  },
+  "author": "zhiming.yue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuezm/is-sorted/issues"
+  },
+  "homepage": "https://github.com/yuezm/is-sorted#readme"
+}

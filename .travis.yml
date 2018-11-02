@@ -1,0 +1,17 @@
+sudo: false
+language: node_js
+
+branches:
+  only:
+    - master
+    - develop
+
+node_js:
+  - '8'
+  - '9'
+install:
+  - npm i npminstall && npminstall
+script:
+  - npm run test
+after_script:
+  - npm install codecov && codecov
